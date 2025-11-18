@@ -1,6 +1,6 @@
 # snakepy
 
-**A snake game**
+**A snake game made by Pygame and Python!**
 
 Choose speed on the menu - 5 speeds
 
