@@ -20,7 +20,7 @@ height = info.current_h
 screen_width = width
 screen_height = height
 screen = pygame.display.set_mode((screen_width,screen_height),pygame.NOFRAME)
-pygame.display.set_caption("Snake v1.0.1")
+pygame.display.set_caption("Snake v1.1")
 
 # Màu sắc
 black = (0, 0, 0)
@@ -288,4 +288,5 @@ def gameLoop(snake_speed):
 try:
     main_menu()
 except:
+
     pass
