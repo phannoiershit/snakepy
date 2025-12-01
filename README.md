@@ -10,4 +10,8 @@ You also can import custom speed file
 
 **Latest version:1.2**
 
-#  WARNING: SNAKE.EXE CANNOT READ CUSTOMSPEED.TXT , USE THE SOURCE CODE TO RUN
+---
+
+*If you run the source code, make sure to have Python and Pygame (type pip install pygame in CMD if you have Python)*
+
+##  WARNING: SNAKE.EXE CANNOT READ CUSTOMSPEED.TXT , USE THE SOURCE CODE TO RUN
